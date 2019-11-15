@@ -132,13 +132,15 @@ Click on the field with “Content of the event” to add content.
 
 In that field, paste the following code (we will be replacing certain values):
 
-`{
+```json
+{
 "Topic":"KeyPhrasesItem",
 "SentimentScore":"Score",
 "created_at":"CreatedAt",
 "Author":"Name",
 "text":"TweetText"
-}`
+}
+```
 
 For each field, we will replace the second value with dynamic content using the pop-up on the right. First, remove KeyPhrasesItem, make sure your cursor is in between the quotation marks where it used to say KeyPhrasesItem, search in the dynamic content pop-up for key phrases and select the Key Phrases Item. 
 
