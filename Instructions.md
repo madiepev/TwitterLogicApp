@@ -35,10 +35,15 @@ Resource group | The Azure resource group that will contain your Cognitive Servi
 ## Logic App
 ### Create your logic app
 From the Azure home page, in the search box, find and select Logic Apps.
+
 ![image](https://user-images.githubusercontent.com/48012580/68970716-37e84f00-07e8-11ea-95a7-2ab1708a43fe.png)
+
 On the Logic Apps page, select Add.
+
 ![image](https://user-images.githubusercontent.com/48012580/68970741-46366b00-07e8-11ea-9990-dccf114750bf.png)
+
 On the Logic App pane, provide details about your logic app as shown below. After you're done, select Create.
+
 ![image](https://user-images.githubusercontent.com/48012580/68970766-551d1d80-07e8-11ea-8662-291fc3df2de6.png)
 
 **Property** | **Value** 
